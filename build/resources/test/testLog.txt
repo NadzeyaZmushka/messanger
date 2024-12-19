@@ -1,0 +1,18 @@
+2024-12-19T13:33:57.671: Started: com.epam.ld.module2.testing.MailServerTest
+2024-12-19T13:33:57.688: Started Test: testSendMessageWithMock()
+2024-12-19T13:33:58.579:  Ended Test: testSendMessageWithMock()
+2024-12-19T13:33:58.585: Started Test: testSendMessageUsingSpy()
+2024-12-19T13:33:58.613:  Ended Test: testSendMessageUsingSpy()
+2024-12-19T13:33:58.614: Ended: com.epam.ld.module2.testing.MailServerTest
+2024-12-19T13:33:58.617: Started: com.epam.ld.module2.testing.template.TemplateEngineTest
+2024-12-19T13:33:58.619: Started Test: testGenerateMessageExceptionWithException()
+2024-12-19T13:33:58.635:  Ended Test: testGenerateMessageExceptionWithException()
+2024-12-19T13:33:58.665: Started Test: [1] #{value1}
+2024-12-19T13:33:58.688:  Ended Test: [1] #{value1}
+2024-12-19T13:33:58.717: Started Test: [2] #{value2}
+2024-12-19T13:33:58.720:  Ended Test: [2] #{value2}
+2024-12-19T13:33:58.722: Started Test: [3] #{value3}
+2024-12-19T13:33:58.725:  Ended Test: [3] #{value3}
+2024-12-19T13:33:58.727: Started Test: testTemplateEngineValidInput()
+2024-12-19T13:33:58.731:  Ended Test: testTemplateEngineValidInput()
+2024-12-19T13:33:58.732: Ended: com.epam.ld.module2.testing.template.TemplateEngineTest

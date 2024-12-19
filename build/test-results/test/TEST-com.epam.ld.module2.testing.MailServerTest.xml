@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.epam.ld.module2.testing.MailServerTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-12-19T09:33:57" hostname="EPBYMINW182F" time="0.927">
+  <properties/>
+  <testcase name="testSendMessageWithMock()" classname="com.epam.ld.module2.testing.MailServerTest" time="0.898"/>
+  <testcase name="testSendMessageUsingSpy()" classname="com.epam.ld.module2.testing.MailServerTest" time="0.029"/>
+  <system-out><![CDATA[Message value was sent to test@test.com
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

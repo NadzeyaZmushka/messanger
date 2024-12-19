@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.epam.ld.module2.testing.template.TemplateEngineTest" tests="6" skipped="1" failures="0" errors="0" timestamp="2024-12-19T09:33:58" hostname="EPBYMINW182F" time="0.113">
+  <properties/>
+  <testcase name="testGenerateMessageExceptionWithException()" classname="com.epam.ld.module2.testing.template.TemplateEngineTest" time="0.016"/>
+  <testcase name="testTemplateEngineValidInput_NotOnWindows()" classname="com.epam.ld.module2.testing.template.TemplateEngineTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="parameterizesTestGenerateMessage(String)[1]" classname="com.epam.ld.module2.testing.template.TemplateEngineTest" time="0.047"/>
+  <testcase name="parameterizesTestGenerateMessage(String)[2]" classname="com.epam.ld.module2.testing.template.TemplateEngineTest" time="0.004"/>
+  <testcase name="parameterizesTestGenerateMessage(String)[3]" classname="com.epam.ld.module2.testing.template.TemplateEngineTest" time="0.004"/>
+  <testcase name="testTemplateEngineValidInput()" classname="com.epam.ld.module2.testing.template.TemplateEngineTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
